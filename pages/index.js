@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Vinyl Catalog 1995 - 2000
         </h1>
 
         <p className={styles.description}>
