@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
         <h1 className={styles.title}>
-          Vinyl Catalog 1995 - 2000
+          Vinyl Catalog 
         </h1>
 
         <p className={styles.description}>
