@@ -5,7 +5,7 @@
     "dataset": "production"
   },
   "project": {
-    "name": "starter"
+    "name": "Vinyl Catalog"
   },
   "plugins": [
     "@sanity/base",
@@ -15,9 +15,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
